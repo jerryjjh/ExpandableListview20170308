@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\work\\ExpandableListview20170308\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\work\\ExpandableListview20170308\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\work\\ExpandableListview20170308\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\delete_btn.xml",
+        "source": "D:\\work\\ExpandableListview20170308\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\delete_btn.xml"
+    },
+    {
+        "merged": "D:\\work\\ExpandableListview20170308\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\work\\ExpandableListview20170308\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]
